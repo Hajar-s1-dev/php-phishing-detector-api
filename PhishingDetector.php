@@ -6,7 +6,7 @@ class PhishingDetector {
     public function analyzeUrl($url) {
         $parsed = parse_url($url);
         
-        // I7tiyat: ila parse_url m9rach l-host s7i7, n-khdmo b l-url kamel f l-ba7t
+        
         $host = $parsed['host'] ?? '';
         if (empty($host)) {
             $host = $url; 
