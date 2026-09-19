@@ -34,7 +34,7 @@ The project is built without any PHP framework, following a simple MVC-inspired 
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/php-phishing-detector-api.git
+git clone https://github.com/Hajar-s1-dev/php-phishing-detector-api.git
 ```
 
 Go to the project directory
